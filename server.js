@@ -13,11 +13,11 @@ app.get('/article-one',function (req,res) {
     res.send('article one is requested and will not be served');
 });
 app.get('/article-two',function (req,res) {
-   res.send('article one is requested and will not be served');
+   res.send('article two is requested and will not be served');
 });
 
 app.get('/article-three',function (req,res) {
-    res.send('article one is requested and will not be served');    
+    res.send('article three is requested and will not be served');    
 });    
     
     

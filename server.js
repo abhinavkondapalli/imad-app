@@ -8,7 +8,6 @@ var pool = require('pg').pool;
      database: 'abhinavkondapalli77',
      host: 'db.imad.hasura-app.io',
      post: '5432',
-     password: DB.PASSWORD
  
  
  }
